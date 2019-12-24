@@ -14,5 +14,4 @@ A cheat sheet is a good way to remember a language syntax at a glance so I have 
 
 ## License
 
-This repository is licensed under [GNU General Public License v3.0](https://github.com/luisdavidfer/useful-cheatsheets/blob/master/LICENSE)
-
+This repository is licensed under [GNU General Public License v3.0](https://github.com/luisdavidfer/useful-cheatsheets/blob/master/LICENSE) by [Luis David Fernández Marín](https://github.com/luisdavidfer).
