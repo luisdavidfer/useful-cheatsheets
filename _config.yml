@@ -1,1 +1,7 @@
+title: Useful Cheatsheets
+description: Quick reference guides about programming and markup languages.
+locale: "en"
+author:
+  name: Luis David Fernández Marín
+  url: https://github.com/luisdavidfer
 theme: jekyll-theme-cayman
